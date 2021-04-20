@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sasanka</h1>
 <h3 align="center">I am a Researcher in Robotics, Developer, Mechanical Engineer, ROS geek, Formula Student alumni and a Follower of AI.</h3>
 </br>
-<img align="right" alt="GIF" width=300 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - Hello! I’m **Sasanka Kuruppuarachchi**. I'm a Mechanical engineering graduate student of [University Of Moratuwa, Sri Lanka](https://uom.lk/).
 - I'm currently working as an **Engineer in Scientific Computing** at [Sutra Technologies](https://www.sutratechnologies.com/)
 - :books: I’m currently learning ROS, SLAM, Nural networks and Deep learning 
 - 💞️ I’m specially interested in **Aerial robotics, AI, EVs, Motorsport, Autonomous driving**. 
 
-**Languages and Tools:**</br>
+<h5 align="center">**Languages and Tools:**</br>
 - C++, Python, Fortran
 - ROS
-
+</h5>
 
 
 
