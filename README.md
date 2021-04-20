@@ -8,6 +8,10 @@
 - :books: I’m currently learning ROS, SLAM, Nural networks and Deep learning 
 - 💞️ I’m specially interested in **Aerial robotics, AI, EVs, Motorsport, Autonomous driving**. 
 
+Languages and Tools:
+C++, Python, Fortran
+
+
 
 
 <h3 align="center">Follow me</br></br>
@@ -28,11 +32,7 @@
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasaKuruppuarachchi&count_private=true&theme=radical" alt="Jas-Script" /></a>
 
 <h4 align="center">Languages and Tools:</br></br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </h4>
 
 
