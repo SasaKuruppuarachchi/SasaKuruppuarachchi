@@ -30,11 +30,6 @@
 
 <img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=SasaKuruppuarachchi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="SasaKuruppuarachchi's github stats"></a>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SasaKuruppuarachchi&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasaKuruppuarachchi&count_private=true&theme=radical" alt="Jas-Script" /></a>
-
-<h4 align="center">Languages and Tools:</br></br>
-
-</h4>
 
 
 -----
