@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sasanka</h1>
 <h3 align="center">I am a Researcher in Robotics, Developer, Mechanical Engineer, ROS geek, Formula Student alumni and a Follower of AI.</h3>
 </br>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - Hello! I’m **Sasanka Kuruppuarachchi**. I'm a Mechanical engineering graduate student of [University Of Moratuwa, Sri Lanka](https://uom.lk/).
 - I'm currently working as an **Engineer in Scientific Computing** at [Sutra Technologies](https://www.sutratechnologies.com/)
@@ -26,8 +26,8 @@
 <img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=SasaKuruppuarachchi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="SasaKuruppuarachchi's github stats"></a>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SasaKuruppuarachchi&count_private=true&theme=radical" alt="Jas-Script" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasaKuruppuarachchi&count_private=true&theme=radical" alt="Jas-Script" /></a>
-<h4 align="right">Languages and Tools:</br></br>
 
+<h4 align="center">Languages and Tools:</br></br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
