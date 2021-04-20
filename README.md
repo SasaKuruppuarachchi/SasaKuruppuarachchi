@@ -8,7 +8,7 @@
 - :books: I’m currently learning ROS, SLAM, Nural networks and Deep learning 
 - 💞️ I’m specially interested in **Aerial robotics, AI, EVs, Motorsport, Autonomous driving**. 
 
-**Languages and Tools:**</br></br>
+**Languages and Tools:**</br>
 - C++, Python, Fortran
 - ROS
 
