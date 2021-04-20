@@ -9,8 +9,8 @@
 - 💞️ I’m specially interested in **Aerial robotics, AI, EVs, Motorsport, Autonomous driving**. 
 
 <h5 align="center">Languages and Tools:</br>
-- C++, Python, Fortran</br>
-- ROS
+C++, Python, Fortran</br>
+ROS
 </h5>
 
 
