@@ -7,6 +7,21 @@
 - I'm currently working as an **Engineer in Scientific Computing** at [Sutra Technologies](https://www.sutratechnologies.com/)
 - :books: I’m currently learning ROS, SLAM, Nural networks and Deep learning 
 - 💞️ I’m specially interested in **Aerial robotics, AI, EVs, Motorsport, Autonomous driving**. 
+
+<h4 align="center">Languages and Tools:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+</h4>
+
 <h3 align="center">Follow me</br></br>
 <a href="https://sasakuruppu.wordpress.com" target="blank"><img align="center" src="https://github.com/SasaKuruppuarachchi/SasaKuruppuarachchi/blob/main/profile_misc/wp_w.png" alt="Sasanka" height="60" width="60" /></a>
 <a href="https://www.youtube.com/channel/UCWAFJEwX8tbk-QnDfpqJPag" target="blank"><img align="center" src="https://github.com/SasaKuruppuarachchi/SasaKuruppuarachchi/blob/main/profile_misc/yt_w.png" alt="Sasanka" height="60" width="60" /></a>
@@ -19,7 +34,9 @@
 <a href="https://twitter.com/SasaDDivergent" target="blank"><img align="center" src="https://github.com/SasaKuruppuarachchi/SasaKuruppuarachchi/blob/main/profile_misc/tw_w.png" alt="Sasanka" height="50" width="50" /></a>
 </h3>
 
-![SasaKuruppuarachchi's github stats](https://github-readme-stats.vercel.app/api?username=SasaKuruppuarachchi&count_private=true&show_icons=true&theme=highcontrast)
+<img src="https://github-readme-stats.vercel.app/api?username=SasaKuruppuarachchi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="SasaKuruppuarachchi's github stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SasaKuruppuarachchi&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasaKuruppuarachchi&count_private=true&theme=radical" alt="Jas-Script" />
 
 -----
 Credits: [Sasa](https://github.com/SasaKuruppuarachchi)
