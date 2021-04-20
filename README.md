@@ -8,14 +8,7 @@
 - :books: I’m currently learning ROS, SLAM, Nural networks and Deep learning 
 - 💞️ I’m specially interested in **Aerial robotics, AI, EVs, Motorsport, Autonomous driving**. 
 
-<h4 align="center">Languages and Tools:</br></br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-</h4>
 
 <h3 align="center">Follow me</br></br>
 <a href="https://sasakuruppu.wordpress.com" target="blank"><img align="center" src="https://github.com/SasaKuruppuarachchi/SasaKuruppuarachchi/blob/main/profile_misc/wp_w.png" alt="Sasanka" height="60" width="60" /></a>
@@ -28,6 +21,15 @@
 <a href="https://www.facebook.com/people/Sasanka-Kuruppuarachchi/100006459611611" target="blank"><img align="center" src="https://github.com/SasaKuruppuarachchi/SasaKuruppuarachchi/blob/main/profile_misc/fb_w.png" alt="Sasanka" height="50" width="50" /></a>
 <a href="https://twitter.com/SasaDDivergent" target="blank"><img align="center" src="https://github.com/SasaKuruppuarachchi/SasaKuruppuarachchi/blob/main/profile_misc/tw_w.png" alt="Sasanka" height="50" width="50" /></a>
 </h3>
+
+<h4 align="right">Languages and Tools:</br></br>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+</h4>
 
 <img src="https://github-readme-stats.vercel.app/api?username=SasaKuruppuarachchi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="SasaKuruppuarachchi's github stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SasaKuruppuarachchi&count_private=true&theme=radical" alt="Jas-Script" />
