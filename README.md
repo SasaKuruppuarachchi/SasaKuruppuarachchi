@@ -21,7 +21,10 @@
 
 ![SasaKuruppuarachchi's github stats](https://github-readme-stats.vercel.app/api?username=SasaKuruppuarachchi&count_private=true&show_icons=true&theme=highcontrast)
 
+-----
+Credits: [Sasa](https://github.com/SasaKuruppuarachchi)
 
+Last Edited on: 20/04/2021
 <!---
 SasaKuruppuarachchi/SasaKuruppuarachchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
