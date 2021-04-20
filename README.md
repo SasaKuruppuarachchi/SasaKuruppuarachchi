@@ -5,8 +5,8 @@
 
 - Hello! I’m **Sasanka Kuruppuarachchi**. I'm a Mechanical engineering graduate student of [University Of Moratuwa, Sri Lanka](https://uom.lk/).
 - I'm currently working as an **Engineer in Scientific Computing** at [Sutra Technologies](https://www.sutratechnologies.com/)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- :books: I’m currently learning ROS, SLAM, Nural networks and Deep learning 
+- 💞️ I’m specially interested in **Aerial robotics, AI, EVs, Motorsport, Autonomous driving**. 
 <h3 align="center">Follow me</br></br>
 <a href="https://sasakuruppu.wordpress.com" target="blank"><img align="center" src="https://github.com/SasaKuruppuarachchi/SasaKuruppuarachchi/blob/main/profile_misc/wp_w.png" alt="Sasanka" height="60" width="60" /></a>
 <a href="https://www.youtube.com/channel/UCWAFJEwX8tbk-QnDfpqJPag" target="blank"><img align="center" src="https://github.com/SasaKuruppuarachchi/SasaKuruppuarachchi/blob/main/profile_misc/yt_w.png" alt="Sasanka" height="60" width="60" /></a>
