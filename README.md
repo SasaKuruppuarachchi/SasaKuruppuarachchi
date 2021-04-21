@@ -6,11 +6,11 @@
 - Hello! I’m **Sasanka Kuruppuarachchi**. I'm a Mechanical engineering graduate student of [University Of Moratuwa, Sri Lanka](https://uom.lk/).
 - I'm currently working as an **Engineer in Scientific Computing** at [Sutra Technologies](https://www.sutratechnologies.com/)
 - :books: I’m currently learning ROS, SLAM, Nural networks and Deep learning 
-- 💞️ I’m specially interested in **Aerial robotics, AI, EVs, Motorsport, Autonomous driving**. 
+- 💞️ I’m specially interested in **Aerial robotics, AI, EVs, Motorsport and Autonomous driving**. 
 
 <h5 align="center">Languages and Tools:</br></br>
 C++, Python, Fortran, Processing</br>
-ROS, Dronkit, Ardupilot
+ROS, Gazebo, Dronkit, Ardupilot
 </h5>
 
 
