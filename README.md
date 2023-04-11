@@ -4,8 +4,8 @@
 <img align="right" alt="GIF" width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - Hello! I’m **Sasanka Kuruppuarachchi**. I'm currently working as a researcher at the [Aerial Robotics Research Facility (ARRF)](https://knurobot.wixsite.com/arrf). 
-- I'm a Mechanical engineering graduate student of Kyungpook National University and a former student of [University Of Moratuwa, Sri Lanka](https://uom.lk/).
-- I'm currently working as an **Engineer in Scientific Computing** at [Sutra Technologies](https://www.sutratechnologies.com/)
+- I'm a Mechanical engineering graduate student of [Kyungpook National University](https://en.knu.ac.kr/main/main.htm) and a former student of [University Of Moratuwa, Sri Lanka](https://uom.lk/).
+- I worked as an **Engineer in Scientific Computing** at [Sutra Technologies](https://www.sutratechnologies.com/)
 - :books: I’m currently learning ROS, SLAM, Nural networks and Deep learning 
 - 💞️ I’m specially interested in **Aerial robotics, AI, EVs, Motorsport and Autonomous driving**. 
 
