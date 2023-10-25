@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sasanka</h1>
-<h3 align="center">I am a Researcher in Robotics, Developer, Mechanical Engineer, ROS enthusiast, Formula Student alumni and a Follower of AI.</h3>
+<h3 align="center">I am a Researcher in Aerial Robot navigation and computer vision, an MSCA fellow, a Developer, a Mechanical Engineer, a Formula Student alumni, and a Follower of AI.</h3>
 </br>
 <img align="right" alt="GIF" width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- Hello! I’m **Sasanka Kuruppuarachchi**. I'm currently working as a researcher at the [Aerial Robotics Research Facility (ARRF)](https://knurobot.wixsite.com/arrf). 
-- I'm a Mechanical engineering graduate student of [Kyungpook National University](https://en.knu.ac.kr/main/main.htm) and a former student of [University Of Moratuwa, Sri Lanka](https://uom.lk/).
+- Hello! I’m **Sasanka Kuruppuarachchi**. I'm currently working as a Doctoral researcher at the [Computer Vision group](https://research.tuni.fi/vision/), located in Tampere Finland, working for the EU-funded [RAICAM](https://raicam.eu/) project.
+- I am a former researcher at the [Aerial Robotics Research Facility (ARRF)](https://knurobot.wixsite.com/arrf), Daegu South Korea. 
 - I worked as an **Engineer in Scientific Computing** at [Sutra Technologies](https://www.sutratechnologies.com/)
-- :books: I’m currently learning ROS, SLAM, Nural networks and Deep learning 
-- 💞️ I’m specially interested in **Aerial robotics, AI, EVs, Motorsport and Autonomous driving**. 
+- :books: I’m currently working with Visual Navigation, Sensorimotor Control, Neural MPC, and other Learning-based Odometry.
+- 💞️ I’m especially interested in **Aerial robotics, AI, EVs, Motorsport, and Autonomous driving**. 
 
 <h5 align="center">Languages and Tools:</br></br>
 C++, Python, Fortran, Processing</br>
-ROS, Gazebo, Dronkit, Ardupilot
+Isaac Sim, Isaac Gym, ROS 1 & 2, Gazebo, Dronkit, Ardupilot
 </h5>
 
 
@@ -37,7 +37,7 @@ ROS, Gazebo, Dronkit, Ardupilot
 -----
 Credits: [Sasa](https://github.com/SasaKuruppuarachchi)
 
-Last Edited on: 21/04/2021
+Last Edited on: 25/10/2023
 <!---
 SasaKuruppuarachchi/SasaKuruppuarachchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
