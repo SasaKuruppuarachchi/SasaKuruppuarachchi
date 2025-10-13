@@ -17,7 +17,7 @@ Isaac Sim, Isaac Gym, ROS 1 & 2, Gazebo, Dronkit, Ardupilot
 
 
 <h3 align="center">Follow me</br></br>
-<a href="https://sasakuruppu.wordpress.com" target="blank"><img align="center" src="https://github.com/SasaKuruppuarachchi/SasaKuruppuarachchi/blob/main/profile_misc/wp_w.png" alt="Sasanka" height="60" width="60" /></a>
+<a href="https://sasakuruppuarachchi.github.io/" target="blank"><img align="center" src="https://github.com/SasaKuruppuarachchi/SasaKuruppuarachchi/blob/main/profile_misc/wp_w.png" alt="Sasanka" height="60" width="60" /></a>
 <a href="https://www.youtube.com/channel/UCWAFJEwX8tbk-QnDfpqJPag" target="blank"><img align="center" src="https://github.com/SasaKuruppuarachchi/SasaKuruppuarachchi/blob/main/profile_misc/yt_w.png" alt="Sasanka" height="60" width="60" /></a>
 </h3>
 
